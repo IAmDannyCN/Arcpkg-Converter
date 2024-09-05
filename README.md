@@ -13,9 +13,9 @@ PyYAML==6.0.1
   - 1080_select_\[set_id\].png
 - \[song_id\]
   - base.ogg
-  - 1080_base.png
+  - 1080_base.jpg
   - \[X\].aff (\[X\] can be 0, 1, 2, 3, 4, standing for past, present, future, beyond, eternal; Can exist at the same time)
-  - (optional, required when `jacketOverride == true` in songlist) 1080_\[X\].png
+  - (optional, required when `jacketOverride == true` in songlist) 1080_\[X\].jpg
   - (optional, required when `audioOverride == true` in songlist) \[X\].ogg
 
 2. Change `USERID` in line to your own signaturing name.
